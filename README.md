@@ -7,9 +7,9 @@ Projeto idealizado para estudo de HTML/CSS/JS
 ##
 Gerador de senhas aleatórias de 5 a 25 caracteres...
 <br>
-Quer testar aplicação? [Clique aqui](https://luizvictorhl.github.io/gerador-senha/)
+Quer testar a aplicação? [Clique aqui](https://luizvictorhl.github.io/gerador-senha/)
 
-##
+
 <p align="center">
   <img alt="Logo do projeto" src="./assets/logo.png" />
 </p>
